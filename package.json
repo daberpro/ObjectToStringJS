@@ -1,0 +1,31 @@
+{
+  "name": "objecttostringjs",
+  "version": "1.0.0",
+  "description": "Parse javascript object to string (not JSON)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daber",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daberpro/ObjectToStringJS.git"
+  },
+  "keywords": [
+    "javascript",
+    "daberdev",
+    "daber",
+    "indonesia",
+    "utility",
+    "utilities",
+    "web",
+    "frontend",
+    "node",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/daberpro/ObjectToStringJS/issues"
+  },
+  "homepage": "https://github.com/daberpro/ObjectToStringJS#readme"
+}
